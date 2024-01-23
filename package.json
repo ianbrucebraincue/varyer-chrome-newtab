@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "varyer-tab-extension",
+  "version": "1.0.0",
+  "description": "The latest Varyer stories.",
+  "main": "index.js",
+  "author": "Ian Bruce",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
